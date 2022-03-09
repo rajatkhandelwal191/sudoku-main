@@ -7,7 +7,7 @@ homeBtn.addEventListener("click", function(){
 })
 
 githubBtn.addEventListener("click", function(){
-    window.location.assign("https://github.com/rajatkhandelwal191/sudoku-main/tree/master/sudoku-main");
+    window.location.assign("https://github.com/rajatkhandelwal191/sudoku-main");
 })
 
 linkedinBtn.addEventListener("click", function(){
